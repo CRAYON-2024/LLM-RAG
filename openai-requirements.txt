@@ -1,0 +1,17 @@
+openai
+
+pdfplumber
+pymupdf
+python-dotenv
+lancedb
+
+llama-index==0.10
+llama-index-llms-openai
+llama-index-embeddings-openai
+
+#nnt kita bakal pake azure openai 
+llama-index-llms-azure-openai
+llama-index-embeddings-azure-openai
+
+#vector store
+llama-index-vector-stores-lancedb
